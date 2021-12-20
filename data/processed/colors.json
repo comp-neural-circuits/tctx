@@ -1,0 +1,96 @@
+{
+    "blue": {
+        "dark": "#154975",
+        "darker": "#053053",
+        "light": "#4E7EA6",
+        "lighter": "#8EB3D1",
+        "main": "#2D6390"
+    },
+    "green": {
+        "dark": "#51A113",
+        "darker": "#317200",
+        "light": "#9AE362",
+        "lighter": "#C2F09E",
+        "main": "#74C634"
+    },
+    "red": {
+        "dark": "#A3143D",
+        "darker": "#740021",
+        "light": "#E66389",
+        "lighter": "#F29FB7",
+        "main": "#C9355F"
+    },
+    "yellow": {
+        "dark": "#B57216",
+        "darker": "#804A00",
+        "light": "#FFC26E",
+        "lighter": "#FFDAA8",
+        "main": "#E09A3B"
+    },
+    "grey": {
+        "main": "#666666",
+        "lighter": "#AAAAAA",
+        "light": "#808080",
+        "dark": "#4C4C4C",
+        "darker": "#2C2D2D"
+    },
+    "purple": {
+        "lighter": "#C27DD7",
+        "light": "#9642B0",
+        "main": "#7E1E9C",
+        "dark": "#5B0B74",
+        "darker": "#350245"
+    },
+    "mustard": {
+        "darker": "#373000",
+        "dark": "#837101",
+        "main": "#ceb301",
+        "light": "#fee01d",
+        "lighter": "#feeb68"
+    },
+    "cerulean": {
+        "darker": "#01283f",
+        "dark": "#035788",
+        "main": "#0485d1",
+        "light": "#24abfb",
+        "lighter": "#6dc7fc"
+    },
+    "orange": {
+        "darker": "#7c3a03",
+        "dark": "#bb5605",
+        "main": "#f97306",
+        "light": "#fa9644",
+        "lighter": "#fcb982"
+    },
+
+    "cluster_a": {
+        "lighter":"#91DEB5",
+        "light":"#4AD388",
+        "main": "#38987A",
+        "dark": "#20834D",
+        "darker": "#145230"
+    },
+
+    "cluster_b": {
+        "lighter":"#F6C6B6",
+        "light":"#EF9C80",
+        "main": "#CC5636",
+        "dark": "#DA4B1B",
+        "darker": "#A33814"
+    },
+
+    "cluster_c": {
+        "lighter":"#F2E092",
+        "light":"#EBD15C",
+        "main": "#E4C126",
+        "dark": "#B69816",
+        "darker": "#7F6B10"
+    },
+    "cluster_d": {
+        "lighter":"#B98C64",
+        "light":"#9B6D46",
+        "main": "#773039",
+        "dark": "#543C26",
+        "darker": "#382819"
+    }
+}

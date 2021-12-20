@@ -1,0 +1,8 @@
+tqdm
+scipy
+pandas
+matplotlib
+numpy
+nest
+mu
+kmodes
